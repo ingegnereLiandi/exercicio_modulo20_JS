@@ -28,3 +28,5 @@ var resultado = encontraIndiceMaxMin(numeros);
 
 console.log("O indice do valor maximo é: " + resultado.indiceMax);
 console.log("O indice do valor minimo é: " + resultado.indiceMin);
+
+module.exports = encontraIndiceMaxMin;

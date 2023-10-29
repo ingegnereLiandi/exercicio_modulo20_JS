@@ -15,3 +15,5 @@ function somaMultipli() {
 
 var resultado = somaMultipli();
 console.log("A soma dos multiplos de 5 o 7 abaixo de 1000 é: " + resultado);
+
+module.exports = somaMultipli;

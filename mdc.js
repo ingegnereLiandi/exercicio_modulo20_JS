@@ -13,3 +13,6 @@ var numero2 = 100;
 
 var mcd = MCD(numero1, numero2);
 console.log("O maximo divisor comum de:", numero1, "e", numero2, "è", mcd);
+
+
+module.exports = MCD;
